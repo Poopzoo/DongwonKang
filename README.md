@@ -1,2 +1,4 @@
 # DongwonKang
-Thing's I've done
+Compscience Student
+
+[Baekjoon 
